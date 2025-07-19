@@ -1,7 +1,7 @@
 # Please follow the instructions For Backend
 
 `step 1:` clone this git repository <br>
-`step 2:` copy .env.example to .env    and configure all info in `.env`<br>
+`step 2:` copy .env.example to .env    and configure all database <br>
 `step 3:` run command <code>composer install</code> <br>
 `step 4:` run command <code>php artisan migrate</code><br>
 `step 5:` run command <code>php artisan db:seed</code> <br>
@@ -10,4 +10,5 @@
 
 # Please follow the instructions For Frontend (React)
 - run command `npm install`
-- - run command `npm run dev`  
+- - run command `npm run dev`
+    
